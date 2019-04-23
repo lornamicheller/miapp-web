@@ -239,6 +239,16 @@ label {
 	text-align: center;
 	font-size: 15px;
 	color: grey;
+	border-bottom: 1px solid #29ABE2;
+	padding-bottom: 40px;
+}
+
+.title-benefits-2 {
+	text-align: center;
+	font-size: 15px;
+	color: grey;
+	border-bottom: 1px solid #29ABE2;
+	padding-bottom: 58px;
 }
 
 .p-benefits {
@@ -723,6 +733,16 @@ label {
 	border: 1px solid #93278f;
 	border-radius: 25px;
 	margin: 10px;
+	-webkit-box-shadow: 0 8px 6px -6px black;
+	-moz-box-shadow: 0 8px 6px -6px black;
+	box-shadow: 0 8px 6px -6px black;
+}
+
+.card-3 {
+	border: 1px solid #93278f;
+	border-radius: 25px;
+	margin: 10px;
+	padding: 50px;
 	-webkit-box-shadow: 0 8px 6px -6px black;
 	-moz-box-shadow: 0 8px 6px -6px black;
 	box-shadow: 0 8px 6px -6px black;
